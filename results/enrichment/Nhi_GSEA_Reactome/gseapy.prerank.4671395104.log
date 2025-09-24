@@ -1,0 +1,12 @@
+2025-09-24 11:09:29,141 prerank4671395104::[WARNING ] Duplicated values found in preranked stats: 14.39% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+2025-09-24 11:09:29,141 prerank4671395104::[INFO    ] Parsing data files for GSEA.............................
+2025-09-24 11:09:29,398 prerank4671395104::[INFO    ] Downloading and generating Enrichr library gene sets......
+2025-09-24 11:09:32,269 prerank4671395104::[INFO    ] 1818 gene_sets have been filtered out when max_size=500 and min_size=15
+2025-09-24 11:09:32,270 prerank4671395104::[ERROR   ] No gene sets passed through filtering condition !!! 
+Hint 1: Try to lower min_size or increase max_size !
+Hint 2: Check gene symbols are identifiable to your gmt input.
+Hint 3: Gene symbols curated in Enrichr web services are all upcases.
+
+2025-09-24 11:09:32,270 prerank4671395104::[ERROR   ] The first entry of your gene_sets (gmt) look like this : { 2-LTR Circle Formation R-HSA-164843: [XRCC5, XRCC6, SGIP1, XRCC4, PSIP1, BANF1, LIG4, HMGA1]}
+2025-09-24 11:09:32,270 prerank4671395104::[ERROR   ] The first 5 genes look like this : [ ENSG00000166509, ENSG00000166923, ENSG00000136110, ENSG00000101825, ENSG00000112280 ]

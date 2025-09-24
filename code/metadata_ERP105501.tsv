@@ -1,0 +1,76 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_developmental_stage	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_processor_id	refinebio_processor_name	refinebio_processor_version	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment	MetaSRA_age	MetaSRA_body mass index
+ERR2209858	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				MRI004		57.0	
+ERR2209859	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH052		72.0	30.0
+ERR2209860	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH004		70.0	40.0
+ERR2209861	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH004		70.0	40.0
+ERR2209862	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH005		82.0	27.0
+ERR2209863	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH005		82.0	27.0
+ERR2209864	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH054		69.0	29.0
+ERR2209865	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH006		65.0	24.0
+ERR2209866	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH006		65.0	24.0
+ERR2209867	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH046		63.0	28.0
+ERR2209868	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH055		70.0	30.0
+ERR2209869	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH043		68.0	38.0
+ERR2209870	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				MRI001		55.0	
+ERR2209871	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				MRI003		67.0	
+ERR2209872	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH040		76.0	27.0
+ERR2209873	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH023		72.0	29.0
+ERR2209874	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH047		82.0	29.0
+ERR2209875	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH018		75.0	31.0
+ERR2209876	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH008		76.0	32.0
+ERR2209877	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH049		75.0	30.0
+ERR2209878	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH064		76.0	30.0
+ERR2209879	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH009		67.0	32.0
+ERR2209880	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH013		81.0	32.0
+ERR2209881	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH007		68.0	39.0
+ERR2209882	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH007		68.0	39.0
+ERR2209883	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				MRI006		86.0	
+ERR2209884	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				RJ001		57.0	
+ERR2209885	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH070		70.0	
+ERR2209886	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH025		76.0	32.0
+ERR2209887	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH038		82.0	33.0
+ERR2209888	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH053		64.0	34.0
+ERR2209889	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH028		74.0	38.0
+ERR2209890	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH048		63.0	39.0
+ERR2209891	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH001		65.0	26.0
+ERR2209892	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH001		65.0	26.0
+ERR2209893	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				MRI002		75.0	
+ERR2209894	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				MRI005		72.0	
+ERR2209895	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				MRI007		57.0	
+ERR2209896	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				MRI008		57.0	
+ERR2209897	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH071		63.0	
+ERR2209898	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH035		79.0	25.0
+ERR2209899	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH012		81.0	30.0
+ERR2209900	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH032		68.0	30.0
+ERR2209901	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH011		79.0	34.0
+ERR2209902	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH039		75.0	35.0
+ERR2209903	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH045		78.0	36.0
+ERR2209904	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH029		64.0	24.0
+ERR2209905	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH065		81.0	24.0
+ERR2209906	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH063		73.0	33.0
+ERR2209907	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH057		69.0	34.0
+ERR2209908	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH037		77.0	37.0
+ERR2209909	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH020		63.0	40.0
+ERR2209910	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				MRI009		57.0	
+ERR2209911	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH074		74.0	
+ERR2209912	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH082		76.0	
+ERR2209913	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH060		78.0	26.0
+ERR2209914	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH051		70.0	34.0
+ERR2209915	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH019		66.0	26.0
+ERR2209916	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH066		69.0	28.0
+ERR2209917	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH002		69.0	35.0
+ERR2209918	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH031		66.0	40.0
+ERR2209919	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH076		64.0	
+ERR2209920	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH077		74.0	
+ERR2209921	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH024		67.0	25.0
+ERR2209922	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH041		63.0	30.0
+ERR2209923	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH081		75.0	
+ERR2209924	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH059		85.0	26.0
+ERR2209925	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH026		67.0	29.0
+ERR2209926	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH079		72.0	
+ERR2209927	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH075		65.0	
+ERR2209928	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH080		79.0	
+ERR2209929	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH017		72.0	33.0
+ERR2209930	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH003		71.0	25.0
+ERR2209931	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH084		68.0	
+ERR2209932	ERP105501								HOMO_SAPIENS	Illumina HiSeq 2500 (IlluminaHiSeq2500)	True	204	Tximport	v1.13.8-hotfix				SRA				SH085		71.0	
