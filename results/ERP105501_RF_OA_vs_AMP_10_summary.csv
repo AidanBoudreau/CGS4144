@@ -1,0 +1,2 @@
+n_genes,test_accuracy,test_f1_macro,test_auc_macro_ovr,n_classes,classes,auc_Amputation,auc_OA_TKR
+10,0.9333333333333333,0.8148148148148148,1.0,2,Amputation|OA_TKR,1.0,1.0

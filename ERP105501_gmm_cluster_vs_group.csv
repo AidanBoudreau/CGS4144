@@ -1,0 +1,5 @@
+Test,Chi2,p_value,DoF
+GMM_k5 @ 10 genes vs Group,0.0,1.0,0
+GMM_k5 @ 100 genes vs Group,0.0,1.0,0
+GMM_k5 @ 1000 genes vs Group,0.0,1.0,0
+GMM_k5 @ 10000 genes vs Group,0.0,1.0,0

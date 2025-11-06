@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+  Amputation       1.00      0.50      0.67         2
+      OA_TKR       0.93      1.00      0.96        13
+
+    accuracy                           0.93        15
+   macro avg       0.96      0.75      0.81        15
+weighted avg       0.94      0.93      0.92        15

@@ -1,0 +1,2 @@
+n_genes,test_accuracy,test_f1_macro,test_auc_macro_ovr,n_classes,classes
+5000,0.3333333333333333,0.31125356125356124,0.5766666666666667,3,Mid|Old|Young
